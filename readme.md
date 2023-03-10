@@ -1,6 +1,6 @@
 The path to become a UX engineer
 
-Here you can find every minor exercise project that I develop to improve my frontend skilss to become fluent in coding to work as a good user experience engineer
+Here you can find every minor exercise project that I develop to improve my frontend skills to become fluent in coding to work as a good user experience engineer
 
 The main objective is to be proficient in HTML, CSS, Javascript and React
 
